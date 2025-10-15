@@ -1,2 +1,10 @@
-# secure-banking-application-h240685R
-system that allows users to deposite, withdraw safely
+# Project Title: Secure Banking Application
+
+• Description: a console-based banking application in Java that demonstrates a strong understanding of Object-Oriented Programming (OOP) principles alongside critical secure coding practices.
+Name:Praise Chikudzuri
+Registration Number:H240685R
+• Features:
+- User Authentication
+- Account Management
+- Transactions (Deposit, Withdraw)
+- Data Persistence to Text Files
